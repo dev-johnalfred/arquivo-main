@@ -125,10 +125,10 @@ npm run start
 
 
 
-#### 13. Open the Repo in VS Code (inside Ubuntu)
+#### 13. Open another Ubuntu and run
 
 ```bash
 code arquivo-main
 ```
-
+to open VS Code
 > 💡 Make sure the **WSL extension** is installed in VS Code.
