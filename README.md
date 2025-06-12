@@ -68,7 +68,6 @@ cd arquivo-main
 
 
 #### 8. Install Backend and Frontend Dependencies
-Open VS Code terminal then
 
 ```bash
 composer update
